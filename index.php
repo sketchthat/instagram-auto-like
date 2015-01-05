@@ -22,7 +22,7 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="readme.txt">Read Me</a></li>
+                        <li><a href="readme.md">Read Me</a></li>
                     </ul>
                 </div>
             </div>
