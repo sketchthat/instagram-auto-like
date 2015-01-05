@@ -9,9 +9,8 @@ Built by:   [sketch that](http://sketchthat.com)
 
 ## Configuration
 
-- Rename `includes/_config.php` to `includes/config.php`
-- Update the `$instagram` array with the relevent information. [Instagram Developer](http://developers.instagram.com/)
-- Update the $tags array with the tags you want to like media from
-- With your web browser hit index.php and login to instagram
-
+- Rename `includes/_config.php` to `includes/config.php`.
+- Update the `$instagram` array with the relevent information, see [Instagram Developer](http://developers.instagram.com/).
+- Update the `$tags` array with the tags you want to like.
+- With your web browser hit index.php and login to Instagram.
 - There is a limit of 30 request per hour enforced by Instagram.
