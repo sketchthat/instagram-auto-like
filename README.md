@@ -17,4 +17,4 @@ Built by:   [sketch that](http://sketchthat.com)
 
 ### Thanks
 
-Thanks to [(]Christian Metz](https://github.com/cosenary) for the [Instagram Class](https://github.com/cosenary/Instagram-PHP-API)
+Thanks to [Christian Metz](https://github.com/cosenary) for the [Instagram Class](https://github.com/cosenary/Instagram-PHP-API)
