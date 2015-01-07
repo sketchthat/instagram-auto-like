@@ -8,3 +8,6 @@
     $_SESSION['instagram'] = $data;
 
     $instagram->setAccessToken($data);
+
+    header('Location: index.php');
+    exit;
